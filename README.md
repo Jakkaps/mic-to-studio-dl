@@ -1,2 +1,2 @@
 # mic-to-studio-dl
-PyTorch code for creating a model that converts audio from cheap mic to studio quality
+PyTorch implementaiton of [HiFi-GAN](https://arxiv.org/abs/2006.05694). The aim is to create studio level audio quality from cheap microphone input.   
